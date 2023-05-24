@@ -1,2 +1,2 @@
 # HandwritingRecognition
- Handwriting Number Recognition with CNN
+ Handwritten Digit Recognition with CNN in Matlab
